@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiky-avis&label=Profile%20views&color=0e75b6&style=flat" alt="wiky-avis" /> </p>
 
-- 🔭 I’m currently working on [fenixstroy_shop](https://github.com/wiky-avis/fenixstroy_shop)
 
 - 🌱 I am currently studying at **Yandex.Practicum**
 
