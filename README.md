@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victoria</h1>
-<h3 align="center">Backend developer in Python</h3>
+<h3 align="center">Python backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiky-avis&label=Profile%20views&color=0e75b6&style=flat" alt="wiky-avis" /> </p>
 
