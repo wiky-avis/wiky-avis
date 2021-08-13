@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [fenixstroy_shop](https://github.com/wiky-avis/fenixstroy_shop)
 
-- 🌱 I’m currently learning **Yandex.Practicum**
+- 🌱 I am currently studying at **Yandex.Practicum**
 
 - 📫 How to reach me **telegram: @wikyavis**
 
