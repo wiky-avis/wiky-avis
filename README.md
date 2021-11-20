@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiky-avis&label=Profile%20views&color=0e75b6&style=flat" alt="wiky-avis" /> </p>
 
 
-- 🌱 I really love **programming**
+- 🌱 In my free time, I develop programming skills, study English, and kill zombies in the harsh conditions of the Apocalypse.
 
 - 📫 How to reach me **telegram: @wikyavis**
 
