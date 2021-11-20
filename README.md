@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiky-avis&label=Profile%20views&color=0e75b6&style=flat" alt="wiky-avis" /> </p>
 
 
-- 🌱 I am currently studying at **Yandex.Practicum**
+- 🌱 I really love **programming**
 
 - 📫 How to reach me **telegram: @wikyavis**
 
